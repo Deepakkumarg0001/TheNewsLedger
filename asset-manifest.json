@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TheNewsLedger/static/css/main.2681061b.css",
+    "main.js": "/TheNewsLedger/static/js/main.50ed8166.js",
+    "static/media/loading.gif": "/TheNewsLedger/static/media/loading.90672f1deffccbcdf4f1.gif",
+    "index.html": "/TheNewsLedger/index.html",
+    "main.2681061b.css.map": "/TheNewsLedger/static/css/main.2681061b.css.map",
+    "main.50ed8166.js.map": "/TheNewsLedger/static/js/main.50ed8166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2681061b.css",
+    "static/js/main.50ed8166.js"
+  ]
+}
