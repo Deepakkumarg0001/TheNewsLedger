@@ -1,13 +1,31 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  background-color: rgb(65, 64, 64);
+} 
+.navbar-brand, .text-center, .nav-link{
+  color: wheat;
+ }
+  .card{
+  background-color: black;
+  color: wheat;
+ }
+.btn{
+  background-color: rgb(65, 64, 64);
+  color: wheat;
+ }
+ .btn:hover{
+  background-color: wheat;
+  color: rgb(65, 64, 64);
+ }
+ #PNbtn{
+  background-color: black;
+  color: wheat;
+ }
+  #PNbtn:hover{
+  background-color: wheat;
+  color: black;
+ }
+#loading{
+  height: 10rem;
+  width: auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
